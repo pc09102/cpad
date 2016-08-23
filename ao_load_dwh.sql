@@ -1,3 +1,4 @@
+/* Created by Charles Padgurskis */
 drop table temp_ao;
 create table temp_ao as
 select
