@@ -13,4 +13,4 @@ and b.case_id=a.case_id)
 and a.case_id=c.case_id
 and a.case_id=d.id
 group by c.iucr_code_cd
-/
+/ Developed by Charles Padgurskis
