@@ -250,8 +250,7 @@ Response.Write "</FONT></B> records in it.<BR>" & vbCrLf
 %>
 </BODY>
 </html>
-/* developed by Charles Padgurskis
-*/
+
 
 
 
